@@ -22,4 +22,4 @@ This µproject in python using {pandas, numpy, matplotlib, plotly, seaborn} help
 
 ## Tableau Generated Visuals
 
-![Tableau](https://github.com/gonewithharshwinds/Covid-19-Data-Analysis-Project/blob/tableau.png?raw=true)
+![Tableau](https://github.com/gonewithharshwinds/Covid-19-Data-Analysis-Project/blob/main/tableau.png)
