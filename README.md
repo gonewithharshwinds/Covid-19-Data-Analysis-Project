@@ -19,3 +19,7 @@ This µproject in python using {pandas, numpy, matplotlib, plotly, seaborn} help
 
 
 > Please modify the codeline for "location" of datasets in the jupyter notebook / raw_code before execution.
+
+## Tableau Generated Visuals
+
+![Tableau](https://github.com/gonewithharshwinds/Covid-19-Data-Analysis-Project/blob/tableau.png?raw=true)
