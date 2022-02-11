@@ -1,6 +1,6 @@
 # ===================================
 # ===================================
-# Copyright (c) 2022 Harsh Mehta (gonewithharshwinds)
+# MIT License : Copyright (c) 2022 Harsh Mehta (gonewithharshwinds)
 # ===================================
 # Covid-19-Data-Analysis-Project-by-gonewithharshwinds
 # ===================================
